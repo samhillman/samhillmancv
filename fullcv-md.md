@@ -1,8 +1,11 @@
-#Sam Hillman
+##Sam Hillman
 
 <sam@samhillman.com>
+
 [www.samhillman.com](http://www.samhillman.com "Sam Hillman's Website")
+
 [www.twitter.com/samghillman](http://www.twitter.com/samghillman "Sam Hillman's Twitter")
+
 
 Undergraduate Ecologist with an interest in disease transmission and
 animal behaviour. Experience of both laboratory and field work, with
@@ -16,6 +19,7 @@ for the Study of Animal Behaviour.
 ##Professional Experience##
 
 *Research Assistant, Cardiff University*
+
 July 2017 - September 2017
 
 Investigating the effect of temperature on the in vitro growth rate of
@@ -30,12 +34,14 @@ image analysis and used R/Tidyverse for data processing and analysis.
 
 
 *Bat Survey Assistant, Wildwood Ecology*
+
 May 2017 - August 2017
 
 Assisting on transect and emergence (dawn and dusk) bat surveys.
 
 
 *Clinical Trials Administrator, Wales Cancer Trials Unit*
+
 June 2016 - June 2017
 
 Responsible for gathering and analysing confidential patient clinical
@@ -44,6 +50,7 @@ statisticians.
 
 
 *Data Administrator and Researcher, CIPR Wales*
+
 January 2016 - July 2016
 
 Consultant for the Chartered Institute of Public Relations Wales,
@@ -52,6 +59,7 @@ working on data and database administration under strict NDA
 
 
 *Microsoft Account Manager, CV Bay*
+
 March 2013 – September 2015
 
 Recruiting for highly technical and niche roles. Line-managed and
@@ -59,6 +67,7 @@ trained two other people.
 
 
 *Sales Manager, Duco Global*
+
 December 2010 – February 2013
 
 Responsible for managing up to 15 staff as well as full sales training
@@ -68,6 +77,7 @@ for any new employees
 ##Other Experience##
 
 *President, Cardiff University Wildlife Conservation Society*
+
 May 2016 – July 2017
 
 Elected President of Cardiff University’s Wildlife Conservation Society.
@@ -79,6 +89,7 @@ all things natural.
 
 
 *CENNAD Lichen Apprentice Scheme, Plantlife Wales*
+
 May 2016 – Present
 
 Awarded two-year CENNAD Lichen Apprenticeship. Working with
@@ -89,6 +100,7 @@ reaction tests, to identify the full range of taxa occurring in Wales
 
 
 *Science Communication and Community Engagement, RSPB Cymru*
+
 June 2016 – June 2017
 
 Working on citizen science and community engagement projects (including
@@ -97,6 +109,7 @@ management activities throughout Cardiff.
 
 
 *Research Assistant, Bag And Remove in Cymru (BARC)*
+
 September 2015 – June 2016
 
 BARC is a Cardiff University citizen science project analysing parasite
@@ -105,6 +118,7 @@ assess *Toxacara* species prevalence.
 
 
 *Post-Mortem and Archival Assistant, The Otter Project*
+
 September 2015 – June 2016
 
 The Otter Project is a Cardiff University, Environment Agency-funded
@@ -117,6 +131,7 @@ projects.
 
 
 *British Ecology Society (BES) Summer School*
+
 July 2016
 
 One of only 50 undergraduates competitively selected from the UK (and
@@ -126,6 +141,7 @@ marine ecology, botany and entomology.
 
 
 *Research Assistant, Open Air Laboratories (OPAL)*
+
 February 2016 – April 2016
 
 Lichen ecologist surveying lichen distribution as an indicator of air
@@ -135,6 +151,7 @@ methodologies.
 
 
 *Urban Buzz Project Volunteer, Buglife*
+
 February 2015 – Present
 
 Working on creating pollinator habitats in Cardiff. Includes basic
@@ -143,6 +160,7 @@ provide key needs of pollinators, as well as planting new sites.
 
 
 *Field Conservation Work*
+
 May 2015 – Present
 
 Working on tree planting, meadow management, weed control and other land
