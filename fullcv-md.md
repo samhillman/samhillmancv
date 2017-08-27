@@ -37,7 +37,7 @@ Infection and Parasites in Ecological Systems) lab under Emily Matthews
 and Dr Amy Ellison. Focused on samples from Welsh salmonid species and
 worked with Salmon and Brown Trout. ImageJ used for automatic and manual
 image processing and R for data analysis. Wrote macros for automatic
-image analysis and used R/Tidyverse for data processing and analysis.
+image analysis and used R/Tidyverse for data processing and analysis.  
 
 
 
