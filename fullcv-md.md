@@ -1,10 +1,8 @@
-Sam Hillman
+#Sam Hillman
 
 <sam@samhillman.com>
-
-[www.samhillman.com](http://www.samhillman.com)
-
-[www.twitter.com/samghillman](http://www.twitter.com/samghillman)
+[www.samhillman.com](http://www.samhillman.com "Sam Hillman's Website")
+[www.twitter.com/samghillman](http://www.twitter.com/samghillman "Sam Hillman's Twitter")
 
 Undergraduate Ecologist with an interest in disease transmission and
 animal behaviour. Experience of both laboratory and field work, with
@@ -15,10 +13,9 @@ less-technical audiences, with experience of running citizen science
 projects. Member of the British Ecological Society and The Association
 for the Study of Animal Behaviour.
 
-**Professional Experience**
+##Professional Experience##
 
-*Research Assistant, Cardiff University *
-
+*Research Assistant, Cardiff University*
 July 2017 - September 2017
 
 Investigating the effect of temperature on the in vitro growth rate of
@@ -31,46 +28,46 @@ worked with Salmon and Brown Trout. ImageJ used for automatic and manual
 image processing and R for data analysis. Wrote macros for automatic
 image analysis and used R/Tidyverse for data processing and analysis.
 
-*Bat Survey Assistant, Wildwood Ecology*
 
+*Bat Survey Assistant, Wildwood Ecology*
 May 2017 - August 2017
 
 Assisting on transect and emergence (dawn and dusk) bat surveys.
 
-*Clinical Trials Administrator, Wales Cancer Trials Unit *
 
+*Clinical Trials Administrator, Wales Cancer Trials Unit*
 June 2016 - June 2017
 
 Responsible for gathering and analysing confidential patient clinical
 data and establishing trends and patterns with data managers and
 statisticians.
 
-*Data Administrator and Researcher, CIPR Wales*
 
+*Data Administrator and Researcher, CIPR Wales*
 January 2016 - July 2016
 
 Consultant for the Chartered Institute of Public Relations Wales,
 working on data and database administration under strict NDA
 (non-disclosure agreement) conditions.
 
-*Microsoft Account Manager, CV Bay*
 
+*Microsoft Account Manager, CV Bay*
 March 2013 – September 2015
 
 Recruiting for highly technical and niche roles. Line-managed and
 trained two other people.
 
-*Sales Manager, Duco Global*
 
+*Sales Manager, Duco Global*
 December 2010 – February 2013
 
 Responsible for managing up to 15 staff as well as full sales training
 for any new employees
 
-**Other Experience**
+
+##Other Experience##
 
 *President, Cardiff University Wildlife Conservation Society*
-
 May 2016 – July 2017
 
 Elected President of Cardiff University’s Wildlife Conservation Society.
@@ -80,8 +77,8 @@ up ecology training schemes with local ecologists and working with
 undergraduate and postgraduate students to try to encourage a love of
 all things natural.
 
-*CENNAD Lichen Apprentice Scheme, Plantlife Wales*
 
+*CENNAD Lichen Apprentice Scheme, Plantlife Wales*
 May 2016 – Present
 
 Awarded two-year CENNAD Lichen Apprenticeship. Working with
@@ -90,24 +87,24 @@ site surveys, including detailed microscopy work, ID skills and chemical
 reaction tests, to identify the full range of taxa occurring in Wales
 (over 1500), and advise on management of lichen species and assemblages.
 
-*Science Communication and Community Engagement, RSPB Cymru *
 
+*Science Communication and Community Engagement, RSPB Cymru*
 June 2016 – June 2017
 
 Working on citizen science and community engagement projects (including
 In the Eyes of the Animal virtual reality experience) and land
 management activities throughout Cardiff.
 
-*Research Assistant, Bag And Remove in Cymru (BARC)*
 
+*Research Assistant, Bag And Remove in Cymru (BARC)*
 September 2015 – June 2016
 
 BARC is a Cardiff University citizen science project analysing parasite
 distribution in UK soil samples. I used microscopy and ID skills to
 assess *Toxacara* species prevalence.
 
-*Post-Mortem and Archival Assistant, The Otter Project*
 
+*Post-Mortem and Archival Assistant, The Otter Project*
 September 2015 – June 2016
 
 The Otter Project is a Cardiff University, Environment Agency-funded
@@ -118,8 +115,8 @@ were used for further research, storing new samples in long-term storage
 and retrieving up to ten-year old samples used for specific PhD research
 projects.
 
-*British Ecology Society (BES) Summer School*
 
+*British Ecology Society (BES) Summer School*
 July 2016
 
 One of only 50 undergraduates competitively selected from the UK (and
@@ -127,8 +124,8 @@ the only undergraduate from Wales) for the BES Summer School. Working in
 teams to investigate a variety of topics, including animal behaviour,
 marine ecology, botany and entomology.
 
-*Research Assistant, Open Air Laboratories (OPAL) *
 
+*Research Assistant, Open Air Laboratories (OPAL)*
 February 2016 – April 2016
 
 Lichen ecologist surveying lichen distribution as an indicator of air
@@ -136,16 +133,16 @@ quality near Aberthaw power station, using the OPAL (Open Air
 Laboratories) and APIS (Air Pollution Information Systems) standard
 methodologies.
 
-*Urban Buzz Project Volunteer, Buglife*
 
+*Urban Buzz Project Volunteer, Buglife*
 February 2015 – Present
 
 Working on creating pollinator habitats in Cardiff. Includes basic
 selecting and surveying of potential sites and training on how to
 provide key needs of pollinators, as well as planting new sites.
 
-*Field Conservation Work *
 
+*Field Conservation Work*
 May 2015 – Present
 
 Working on tree planting, meadow management, weed control and other land
@@ -155,7 +152,7 @@ and various sites in Birmingham.
 **Research Projects**
 
 *Investigating the effect of temperature on the in vitro growth rate of
-the oomycete *Saprolegnia parasitica **
+the oomycete *Saprolegnia parasitica**
 
 July 2017 - September 2017
 
@@ -206,7 +203,7 @@ AS (B), Critical Thinking AS (B)
 
 **Skills**
 
-*ID Skills: *
+*ID Skills:*
 
 -   Excellent Lichen and Tree ID knowledge
 
@@ -221,7 +218,7 @@ AS (B), Critical Thinking AS (B)
 
 -   Basic macro writing with ImageJ
 
-*Laboratory Work: *
+*Laboratory Work:*
 
 -   Mammalian post-mortem and archival experience.
 
@@ -229,7 +226,7 @@ AS (B), Critical Thinking AS (B)
 
 -   Experience of working in sterile conditions with infectious tissue.
 
-*Field Work: *
+*Field Work:*
 
 -   Small mammal trapping and handling.
 
@@ -238,7 +235,7 @@ AS (B), Critical Thinking AS (B)
 
 -   Extensive work on land management and tree planting.
 
-*Team Work: *
+*Team Work:*
 
 -   Previously managed 15 sales staff, directly trained many staff
     previously.
@@ -246,7 +243,7 @@ AS (B), Critical Thinking AS (B)
 -   Extensive experience working with highly diverse teams in both field
     and office settings.
 
-*Communication: *
+*Communication:*
 
 -   4 years’ experience communicating with internal and external
     stakeholders before university.
