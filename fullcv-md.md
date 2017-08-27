@@ -16,6 +16,8 @@ less-technical audiences, with experience of running citizen science
 projects. Member of the British Ecological Society and The Association
 for the Study of Animal Behaviour.
 
+---
+
 ### Professional Experience
 
 *Research Assistant, Cardiff University*
@@ -72,6 +74,9 @@ December 2010 – February 2013
 
 Responsible for managing up to 15 staff as well as full sales training
 for any new employees
+
+
+---
 
 
 ### Other Experience
@@ -167,6 +172,10 @@ Working on tree planting, meadow management, weed control and other land
 management activities at Nant Fawr Woodlands, Howardian Nature Reserve
 and various sites in Birmingham.
 
+
+---
+
+
 **Research Projects**
 
 *Investigating the effect of temperature on the in vitro growth rate of
@@ -199,6 +208,10 @@ Data showed significant assemblage composition change, but as this is a
 limited survey further work would need to be done (as habitat type and
 preference is likely to have a large effect).
 
+
+---
+
+
 ### Education
 
 *BSc. (Hons) Ecology with a Year in Industry, Cardiff University* 2015 –
@@ -218,6 +231,10 @@ statistics.
 
 Biology (A), Chemistry (B), Physics (B), General Studies (A\*), History
 AS (B), Critical Thinking AS (B)
+
+
+---
+
 
 ### Skills
 
@@ -268,6 +285,10 @@ AS (B), Critical Thinking AS (B)
 
 -   Experience of writing for the web in previous roles.
 
+
+---
+
+
 ### Awards
 
 *August 2017 - Professional Training Year (PTY) Bursary, Cardiff
@@ -281,6 +302,11 @@ University of Georgia.
 Awarded Cardiff Undergraduate Research Opportunities Programme (CUROP)
 grant to work on investigating the effect of temperature on the in vitro
 growth rate of the oomycete Saprolegnia parasitica. Grant worth £1600.
+
+
+
+---
+
 
 ### Training and Courses
 
@@ -310,5 +336,3 @@ growth rate of the oomycete Saprolegnia parasitica. Grant worth £1600.
 
 -   July 2016 Good Clinical Practice Certification, National Institute
     for Health Research
-
-
