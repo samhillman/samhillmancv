@@ -1,0 +1,114 @@
+Sam Hillman 
+
+Undergraduate Ecologist with an interest in disease transmission and animal behaviour. Experience of both laboratory and field work, with laboratory experience including both post-mortem and archiving work. Three years’ previous experience of leading and managing teams of up to 15 people, including abroad. Confident presenting to both technical and less-technical audiences, with experience of running citizen science projects. Member of the British Ecological Society and The Association for the Study of Animal Behaviour.
+
+July 2017 - September 2017, Research Assistant, Cardiff University
+Investigating the effect of temperature on the in vitro growth rate of the oomycete Saprolegnia parasitica. Focused on samples from Welsh salmonid species and worked with Salmon and Brown Trout. ImageJ used for automatic and manual image processing and R for data analysis. Wrote macros for automatic image analysis and used R/Tidyverse for data processing and analysis. Funded research placement working in the CRIPES (Cardiff Research in Infection and Parasites in Ecological Systems) lab under Emily Matthews and Dr Amy Ellison.
+
+May 2017 - August 2017, Bat Survey Assistant, Wildwood Ecology, 
+Assisting on transect and emergence (dawn and dusk) bat surveys.
+
+June 2016 - June 2017 Clinical Trials Administrator, Wales Cancer Trials Unit 
+Responsible for gathering and analysing confidential patient clinical data and establishing trends and patterns with data managers and statisticians.
+
+January 2016 - July 2016, Data Administrator and Researcher, CIPR Wales
+Consultant for the Chartered Institute of Public Relations Wales, working on data and database administration under strict NDA (non-disclosure agreement) conditions.
+
+May 2016 – July 2017, President, Cardiff University Wildlife Conservation Society
+Elected President of Cardiff University’s Wildlife Conservation Society. Forging links with RSPB Wales to set up community conservation schemes, working with local conservation groups to organise field work, setting up ecology training schemes with local ecologists and working with undergraduate and postgraduate students to try to encourage a love of all things natural.
+
+May 2016 – Present, CENNAD Lichen Apprentice Scheme, Plantlife Wales
+Awarded two-year CENNAD Lichen Apprenticeship. Working with lichenologists to learn the full range of skills needed to carry out site surveys, including detailed microscopy work, ID skills and chemical reaction tests, to identify the full range of taxa occurring in Wales (over 1500), and advise on management of lichen species and assemblages.
+
+June 2016 – June 2017, Science Communication and Community Engagement, RSPB Cymru 
+Working on citizen science and community engagement projects (including In the Eyes of the Animal virtual reality experience) and land management activities throughout Cardiff.
+
+September 2015 – June 2016, Research Assistant, Bag And Remove in Cymru (BARC)
+BARC is a Cardiff University citizen science project analysing parasite distribution in UK soil samples. I used microscopy and ID skills to assess Toxacara species prevalence.
+
+September 2015 – June 2016, Post-Mortem and Archival Assistant, The Otter Project
+The Otter Project is a Cardiff University, Environment Agency-funded long-term environmental surveillance scheme using deceased otters to study population biology and disease in UK otter populations. I worked with researchers, making observations and dissecting organ samples which were used for further research, storing new samples in long-term storage and retrieving up to ten-year old samples used for specific PhD research projects.
+
+July 2016, British Ecology Society (BES) Summer School
+One of only 50 undergraduates competitively selected from the UK (and the only undergraduate from Wales) for the BES Summer School. Working in teams to investigate a variety of topics, including animal behaviour, marine ecology, botany and entomology.
+
+February 2016 – April 2016, Research Assistant, Open Air Laboratories (OPAL) 
+Lichen ecologist surveying lichen distribution as an indicator of air quality near Aberthaw power station, using the OPAL (Open Air Laboratories) and APIS (Air Pollution Information Systems) standard methodologies.
+
+February 2015 – Present, Urban Buzz Project Volunteer, Buglife
+Working on creating pollinator habitats in Cardiff. Includes basic selecting and surveying of potential sites and training on how to provide key needs of pollinators, as well as planting new sites.
+
+May 2015 – Present, Field Conservation Work 
+Working on tree planting, meadow management, weed control and other land management activities at Nant Fawr Woodlands, Howardian Nature Reserve and various sites in Birmingham.
+
+March 2013 – September 2015,	Microsoft Account Manager, CV Bay
+Recruiting for highly technical and niche roles. Line-managed and trained two other people.
+
+December 2010 – February 2013, Sales Manager, Duco Global
+Responsible for managing up to 15 staff as well as full sales training for any new employees
+
+Education
+2015 – 2019, BSc. (Hons) Ecology with a Year in Industry, Cardiff University
+Second Year Modules include Animal Behaviour (1st), Animal Diversity (including parasitology) (2:1), Molecular Ecology and Evolution (2:1), Microbial Ecology (1st), Population Ecology (2:1) and Advanced Statistics (1st).
+
+First Year modules included Genetics and Evolution, Biological Chemistry, Organisms & Environment (including basic parasitology), and statistics.
+
+2008 – 2010, A Levels, King Edward VI Camp Hill School for Boys, Birmingham
+Biology (A), Chemistry (B), Physics (B), General Studies (A*), History AS (B), Critical Thinking AS (B)
+
+Skills
+ID Skills: 
+Excellent Lichen and Tree ID knowledge.
+Good Plants, Birds and Mammals
+
+IT and Data: 
+Intermediate R. Tidyverse convert. Enjoys data wrangling.
+Beginner Python, HTML, CSS, SQL and Git/Github.
+ImageJ. Basic macro writing.
+
+Statistics:
+Worked on GLMs, (G)LMMs, multi-variate analysis.
+
+Laboratory Work: 
+Mammalian post-mortem and archival experience. 
+Experienced in various microscopy techniques.
+Experience of working in sterile conditions with infectious tissue. 
+
+Field Work: 
+Small mammal trapping and handling. 
+Experience with transect surveys on plants, lichens, bats and mammals. lichen surveys.
+Extensive work on land management and tree planting. 
+
+Team Work: 
+Previously managed 15 sales staff, directly trained many staff previously. 
+Extensive experience working with highly diverse teams in both field and office settings.
+
+Communication: 
+4 years’ experience communicating with internal and external stakeholders before university. Experience of writing for the web in previous roles.
+
+Awards: 
+August 2017, Professional Training Year (PTY) Bursary, Cardiff University
+Awarded £600 bursary for Professional Training Year (PTY) work at the University of Georgia.
+
+July 2017, CUROP Research Grant, Cardiff University
+Awarded Cardiff Undergraduate Research Opportunities Programme (CUROP) grant to work on investigating the effect of temperature on the in vitro growth rate of the oomycete Saprolegnia parasitica. Grant worth £1600.
+
+Training Courses:
+August 2017 – Data Manipulation with R - DataCamp
+March 2017 – Intermediate R – DataCamp
+August 2016 – Introduction to Python for Data Science (97%) – Microsoft / EdX
+
+August 2017 – John Muir Conserve Award 
+April 2016 – Great Crested Newt Survey Training.
+May 2016 – Conducting Environmental Surveys using Open Air Laboratories (OPAL)
+
+October 2016 – Emergency First Aid, Protrainings 
+July 2016 – Good Clinical Practice Certification, National Institute for Health Research (NIHR)
+
+Projects:
+July 2017 - September 2017, Investigating the effect of temperature on the in vitro growth rate of the oomycete Saprolegnia parasitica. 
+Focused on samples from Welsh salmonid species and worked with Salmon and Brown Trout. ImageJ used for automatic and manual image processing and R for data analysis. Wrote macros for automatic image analysis and used R/Tidyverse for data processing and analysis. Funded research placement working in the CRIPES (Cardiff Research in Infection and Parasites in Ecological Systems) lab under Emily Matthews and Dr Amy Ellison.
+
+June 2017, Effects of Temperature on Invertebrate Assemblages in Welsh Streams.
+Analysing the effect of temperature on invertebrate assemblage composition, using the Porth yr Ogof cave system as a natural temperature regulator. Analysis consisted of multivariate analysis of species abundance using the mvabund R package (https://cran.r-project.org/web/packages/mvabund/index.html) to test for changes in assemblage composition due to temperature and non-metric Multidimensional scaling using vegan (https://cran.r-project.org/web/packages/vegan/index.html). Data showed significant assemblage composition change, but as this is a limited survey further work would need to be done (as habitat type and preference is likely to have a large effect).
+
