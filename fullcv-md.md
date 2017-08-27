@@ -1,4 +1,4 @@
-##Sam Hillman
+# Sam Hillman
 
 <sam@samhillman.com>
 
@@ -16,7 +16,7 @@ less-technical audiences, with experience of running citizen science
 projects. Member of the British Ecological Society and The Association
 for the Study of Animal Behaviour.
 
-##Professional Experience##
+## Professional Experience
 
 *Research Assistant, Cardiff University*
 
