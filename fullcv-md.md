@@ -16,7 +16,7 @@ less-technical audiences, with experience of running citizen science
 projects. Member of the British Ecological Society and The Association
 for the Study of Animal Behaviour.
 
-## Professional Experience
+### Professional Experience
 
 *Research Assistant, Cardiff University*
 
@@ -74,7 +74,7 @@ Responsible for managing up to 15 staff as well as full sales training
 for any new employees
 
 
-##Other Experience##
+### Other Experience
 
 *President, Cardiff University Wildlife Conservation Society*
 
@@ -199,7 +199,7 @@ Data showed significant assemblage composition change, but as this is a
 limited survey further work would need to be done (as habitat type and
 preference is likely to have a large effect).
 
-**Education**
+### Education
 
 *BSc. (Hons) Ecology with a Year in Industry, Cardiff University* 2015 –
 2019
@@ -219,7 +219,7 @@ statistics.
 Biology (A), Chemistry (B), Physics (B), General Studies (A\*), History
 AS (B), Critical Thinking AS (B)
 
-**Skills**
+### Skills
 
 *ID Skills:*
 
@@ -268,7 +268,7 @@ AS (B), Critical Thinking AS (B)
 
 -   Experience of writing for the web in previous roles.
 
-**Awards**
+### Awards
 
 *August 2017 - Professional Training Year (PTY) Bursary, Cardiff
 University*
@@ -282,7 +282,7 @@ Awarded Cardiff Undergraduate Research Opportunities Programme (CUROP)
 grant to work on investigating the effect of temperature on the in vitro
 growth rate of the oomycete Saprolegnia parasitica. Grant worth £1600.
 
-**Training and Courses**
+### Training and Courses
 
 *Data Analysis*
 
