@@ -39,8 +39,6 @@ worked with Salmon and Brown Trout. ImageJ used for automatic and manual
 image processing and R for data analysis. Wrote macros for automatic
 image analysis and used R/Tidyverse for data processing and analysis.  
 
-
-
 *Bat Survey Assistant, Wildwood Ecology*
 
 May 2017 - August 2017
