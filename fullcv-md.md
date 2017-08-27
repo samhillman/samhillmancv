@@ -7,6 +7,7 @@
 [www.twitter.com/samghillman](http://www.twitter.com/samghillman "Sam Hillman's Twitter")
 
 
+
 Undergraduate Ecologist with an interest in disease transmission and
 animal behaviour. Experience of both laboratory and field work, with
 laboratory experience including both post-mortem and archiving work.
@@ -16,9 +17,13 @@ less-technical audiences, with experience of running citizen science
 projects. Member of the British Ecological Society and The Association
 for the Study of Animal Behaviour.
 
+
 ---
 
+
 ### Professional Experience
+
+
 
 *Research Assistant, Cardiff University*
 
@@ -35,11 +40,13 @@ image processing and R for data analysis. Wrote macros for automatic
 image analysis and used R/Tidyverse for data processing and analysis.
 
 
+
 *Bat Survey Assistant, Wildwood Ecology*
 
 May 2017 - August 2017
 
 Assisting on transect and emergence (dawn and dusk) bat surveys.
+
 
 
 *Clinical Trials Administrator, Wales Cancer Trials Unit*
@@ -51,6 +58,7 @@ data and establishing trends and patterns with data managers and
 statisticians.
 
 
+
 *Data Administrator and Researcher, CIPR Wales*
 
 January 2016 - July 2016
@@ -60,12 +68,14 @@ working on data and database administration under strict NDA
 (non-disclosure agreement) conditions.
 
 
+
 *Microsoft Account Manager, CV Bay*
 
 March 2013 – September 2015
 
 Recruiting for highly technical and niche roles. Line-managed and
 trained two other people.
+
 
 
 *Sales Manager, Duco Global*
@@ -81,6 +91,8 @@ for any new employees
 
 ### Other Experience
 
+
+
 *President, Cardiff University Wildlife Conservation Society*
 
 May 2016 – July 2017
@@ -91,6 +103,7 @@ working with local conservation groups to organise field work, setting
 up ecology training schemes with local ecologists and working with
 undergraduate and postgraduate students to try to encourage a love of
 all things natural.
+
 
 
 *CENNAD Lichen Apprentice Scheme, Plantlife Wales*
@@ -104,6 +117,7 @@ reaction tests, to identify the full range of taxa occurring in Wales
 (over 1500), and advise on management of lichen species and assemblages.
 
 
+
 *Science Communication and Community Engagement, RSPB Cymru*
 
 June 2016 – June 2017
@@ -113,6 +127,7 @@ In the Eyes of the Animal virtual reality experience) and land
 management activities throughout Cardiff.
 
 
+
 *Research Assistant, Bag And Remove in Cymru (BARC)*
 
 September 2015 – June 2016
@@ -120,6 +135,7 @@ September 2015 – June 2016
 BARC is a Cardiff University citizen science project analysing parasite
 distribution in UK soil samples. I used microscopy and ID skills to
 assess *Toxacara* species prevalence.
+
 
 
 *Post-Mortem and Archival Assistant, The Otter Project*
@@ -135,6 +151,7 @@ and retrieving up to ten-year old samples used for specific PhD research
 projects.
 
 
+
 *British Ecology Society (BES) Summer School*
 
 July 2016
@@ -143,6 +160,7 @@ One of only 50 undergraduates competitively selected from the UK (and
 the only undergraduate from Wales) for the BES Summer School. Working in
 teams to investigate a variety of topics, including animal behaviour,
 marine ecology, botany and entomology.
+
 
 
 *Research Assistant, Open Air Laboratories (OPAL)*
@@ -155,6 +173,7 @@ Laboratories) and APIS (Air Pollution Information Systems) standard
 methodologies.
 
 
+
 *Urban Buzz Project Volunteer, Buglife*
 
 February 2015 – Present
@@ -162,6 +181,7 @@ February 2015 – Present
 Working on creating pollinator habitats in Cardiff. Includes basic
 selecting and surveying of potential sites and training on how to
 provide key needs of pollinators, as well as planting new sites.
+
 
 
 *Field Conservation Work*
@@ -176,7 +196,7 @@ and various sites in Birmingham.
 ---
 
 
-**Research Projects**
+### Research Projects
 
 *Investigating the effect of temperature on the in vitro growth rate of
 the oomycete *Saprolegnia parasitica**
@@ -190,6 +210,8 @@ used R/Tidyverse for data processing and analysis. Funded research
 placement working in the CRIPES (Cardiff Research in Infection and
 Parasites in Ecological Systems) lab under Emily Matthews and Dr Amy
 Ellison.
+
+
 
 *Analysing the effect of temperature on invertebrate assemblage
 composition, using the Porth yr Ogof cave system as a natural
@@ -225,6 +247,8 @@ Statistics (1st).
 First Year modules included Genetics and Evolution, Biological
 Chemistry, Organisms & Environment (including basic parasitology), and
 statistics.
+
+
 
 *A Levels, King Edward VI Camp Hill School for Boys, Birmingham* 2008 –
 2010
@@ -296,6 +320,8 @@ University*
 
 Awarded £600 bursary for Professional Training Year (PTY) work at the
 University of Georgia.
+
+
 
 *July 2017 - CUROP Research Grant, Cardiff University*
 
